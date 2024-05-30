@@ -1,5 +1,4 @@
-# README
-## Capstone Project Idea: To Do List App
+# Capstone Project Idea: To Do List App
 *Idea* :accessibility:: 
 A simple *to-do list* app that allows users to add, edit, and delete tasks. Tasks will be marked as complete or incomplete, and categorized (e.g., work, personal, shopping).
 App displays tasks in a list format. It also uses different views (e.g., all tasks, completed tasks, pending tasks); Adds due dates to tasks and sets reminders for upcoming tasks.

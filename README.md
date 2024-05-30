@@ -1,10 +1,13 @@
 # README
-## Capstone Project Idea: Card Guessing Game
-*Idea*:dependabot:: 
-A card game where you are playing against a bot of some sort. The objective is to guess the correct card that the bot has drawn from the deck. The player may choose to play with a standard or a customizable deck of cards. Each correct guess rewards you with an extra guess after each level. However, if you fail to guess the correct card, you will have to start over from the first level. The difficulty increases with each level.
+## Capstone Project Idea: To Do List App
+*Idea* :accessibility:: 
+A simple *to-do list* app that allows users to add, edit, and delete tasks. Tasks will be marked as complete or incomplete, and categorized (e.g., work, personal, shopping).
+App displays tasks in a list format. It also uses different views (e.g., all tasks, completed tasks, pending tasks); Adds due dates to tasks and sets reminders for upcoming tasks.
+Application will save tasks locally or on a server.
 
-*Technologies*:registered::
-- Javascript
-- VS Code
-- Web Browser
+*Technologies* :registered::
+- **Frontend**: HTML, CSS, JavaScript (React, Vue, or Angular for advanced UI)
+- **Backend**: Node.js, Express.js, Python (Flask/Django), or any server-side technology
+- **Database**: MongoDB, PostgreSQL, MySQL, or Firebase
+- **Authentication**: JWT, OAuth, Firebase Auth
 

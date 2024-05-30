@@ -1,1 +1,3 @@
-# Capstone499
+# README
+## Capstone Project Idea: Card Guessing Game
+
